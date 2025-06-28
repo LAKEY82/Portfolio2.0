@@ -325,7 +325,7 @@ useEffect(() => {
               <CardHeader>
                 <CardTitle className="text-yellow-400">Associate Software Engineer</CardTitle>
                 <CardDescription className="text-gray-300">
-                  Xenosys Software Solutions • Dec '24 — Present
+                  Xenosys Software Solutions • Dec 24 — Present
                 </CardDescription>
               </CardHeader>
               <CardContent className="text-gray-300">
@@ -341,7 +341,7 @@ useEffect(() => {
             <Card className="bg-gray-800/50 border-yellow-400/20 hover:border-yellow-400/50 transition-colors">
               <CardHeader>
                 <CardTitle className="text-yellow-400">Associate React Native Developer</CardTitle>
-                <CardDescription className="text-gray-300">Agro World • Aug '24 — Nov '24</CardDescription>
+                <CardDescription className="text-gray-300">Agro World • Aug 24 — Nov 24</CardDescription>
               </CardHeader>
               <CardContent className="text-gray-300">
                 <ul className="space-y-2">
@@ -356,7 +356,7 @@ useEffect(() => {
             <Card className="bg-gray-800/50 border-yellow-400/20 hover:border-yellow-400/50 transition-colors">
               <CardHeader>
                 <CardTitle className="text-yellow-400">Software Quality Assurance</CardTitle>
-                <CardDescription className="text-gray-300">AFFINITI Innovations • Feb '23 — Aug '23</CardDescription>
+                <CardDescription className="text-gray-300">AFFINITI Innovations • Feb 23 — Aug 23</CardDescription>
               </CardHeader>
               <CardContent className="text-gray-300">
                 <ul className="space-y-2">
@@ -450,7 +450,7 @@ useEffect(() => {
             <Card className="bg-gray-800/50 border-yellow-400/20 hover:border-yellow-400/50 transition-all hover:scale-105">
               <CardHeader>
                 <CardTitle className="text-yellow-400">PlantCare Mobile App</CardTitle>
-                <CardDescription className="text-gray-300">Agro World • Jun '24 — Nov '24</CardDescription>
+                <CardDescription className="text-gray-300">Agro World • Jun 24 — Nov 24</CardDescription>
               </CardHeader>
               <CardContent className="text-gray-300">
                 <p className="mb-4">
@@ -480,7 +480,7 @@ useEffect(() => {
             <Card className="bg-gray-800/50 border-yellow-400/20 hover:border-yellow-400/50 transition-all hover:scale-105">
               <CardHeader>
                 <CardTitle className="text-yellow-400">Coffee Shop Mobile App</CardTitle>
-                <CardDescription className="text-gray-300">Flutter Project • Mar '23</CardDescription>
+                <CardDescription className="text-gray-300">Flutter Project • Mar 23</CardDescription>
               </CardHeader>
               <CardContent className="text-gray-300">
                 <p className="mb-4">Cross-platform mobile application developed using Flutter with Node.js backend.</p>
@@ -508,7 +508,7 @@ useEffect(() => {
             <Card className="bg-gray-800/50 border-yellow-400/20 hover:border-yellow-400/50 transition-all hover:scale-105">
               <CardHeader>
                 <CardTitle className="text-yellow-400">Job Listing Web App</CardTitle>
-                <CardDescription className="text-gray-300">React Project • Feb '24</CardDescription>
+                <CardDescription className="text-gray-300">React Project • Feb 24</CardDescription>
               </CardHeader>
               <CardContent className="text-gray-300">
                 <p className="mb-4">Modern job listing web application frontend built with React and Vite.</p>
@@ -536,7 +536,7 @@ useEffect(() => {
             <Card className="bg-gray-800/50 border-yellow-400/20 hover:border-yellow-400/50 transition-all hover:scale-105">
               <CardHeader>
                 <CardTitle className="text-yellow-400">KIYO Lanka Coco Products</CardTitle>
-                <CardDescription className="text-gray-300">MERN Stack • Feb '21 — Apr '21</CardDescription>
+                <CardDescription className="text-gray-300">MERN Stack • Feb 21 — Apr 21</CardDescription>
               </CardHeader>
               <CardContent className="text-gray-300">
                 <p className="mb-4">Full-stack web application using MERN stack for real-world client requirements.</p>
@@ -567,7 +567,7 @@ useEffect(() => {
             <Card className="bg-gray-800/50 border-yellow-400/20 hover:border-yellow-400/50 transition-all hover:scale-105">
               <CardHeader>
                 <CardTitle className="text-yellow-400">FoodMart Mobile App</CardTitle>
-                <CardDescription className="text-gray-300">Android Studio • Feb '21 — Apr '21</CardDescription>
+                <CardDescription className="text-gray-300">Android Studio • Feb 21 — Apr 21</CardDescription>
               </CardHeader>
               <CardContent className="text-gray-300">
                 <p className="mb-4">Android mobile application for online food ordering using Java and Firebase.</p>
@@ -595,7 +595,7 @@ useEffect(() => {
             <Card className="bg-gray-800/50 border-yellow-400/20 hover:border-yellow-400/50 transition-all hover:scale-105">
               <CardHeader>
                 <CardTitle className="text-yellow-400">Vivid Labs Photography</CardTitle>
-                <CardDescription className="text-gray-300">Web Development • May '20 — Aug '20</CardDescription>
+                <CardDescription className="text-gray-300">Web Development • May 20 — Aug 20</CardDescription>
               </CardHeader>
               <CardContent className="text-gray-300">
                 <p className="mb-4">
@@ -680,7 +680,7 @@ useEffect(() => {
                 <h3 className="text-2xl font-semibold mb-6 text-yellow-400">Ready for Your Next Mission?</h3>
                 <p className="text-gray-300 mb-8 leading-relaxed">
                   Whether you need a mobile application that saves the day or a web solution that protects your
-                  business, I'm ready to join your team. Let's build something extraordinary together.
+                  business, Im ready to join your team. Lets build something extraordinary together.
                 </p>
                 <div className="space-y-4">
                   <div className="flex items-center gap-4">
