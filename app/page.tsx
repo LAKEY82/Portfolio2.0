@@ -21,7 +21,6 @@ import {
 
 export default function BatmanPortfolio() {
   const [activeSection, setActiveSection] = useState("hero")
-  const [isClient, setIsClient] = useState(false);
   const [isMuted, setIsMuted] = useState(true);
   const audioRef = useRef<HTMLAudioElement>(null);
 
