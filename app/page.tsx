@@ -4,6 +4,7 @@ import { useState, useEffect, useRef } from "react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Badge } from "@/components/ui/badge"
+import Image from 'next/image'
 import {
   Mail,
   Phone,
@@ -205,7 +206,7 @@ useEffect(() => {
               <div className="relative">
                 {/* Main profile image */}
                 <div className="w-64 h-64 md:w-80 md:h-80 rounded-full overflow-hidden border-4 border-yellow-400 shadow-lg shadow-yellow-400/20">
-                  <img
+                  <Image
                     src="/face.png?height=100&width=800"
                     alt="Lakindu Perera"
                     className="w-full h-full object-cover"
@@ -213,14 +214,14 @@ useEffect(() => {
                 </div>
                 {/* Decorative smaller images */}
                 <div className="absolute -bottom-4 -left-4 w-32 h-32 rounded-full overflow-hidden border-2 border-yellow-400">
-                  <img
+                  <Image
                     src="/portrait.png?height=400&width=400"
                     alt="Coding"
                     className="w-full h-full object-cover"
                   />
                 </div>
                 {/* <div className="absolute -top-4 -right-4 w-32 h-32 rounded-full overflow-hidden border-2 border-yellow-400">
-                  <img
+                  <Image
                     src="/poi.png?height=400&width=400"
                     alt="Mobile Development"
                     className="w-full h-full object-cover"
@@ -280,14 +281,14 @@ useEffect(() => {
               {/* Image gallery */}
               <div className="space-y-4">
                 <div className="h-48 rounded-lg overflow-hidden border-2 border-yellow-400/50 shadow-lg shadow-yellow-400/10">
-                  <img
+                  <Image
                     src="/roof.png?height=500&width=400"
                     alt="Professional Photo 1"
                     className="w-full h-full object-cover"
                   />
                 </div>
                 {/* <div className="h-32 rounded-lg overflow-hidden border-2 border-yellow-400/50 shadow-lg shadow-yellow-400/10">
-                  <img
+                  <Image
                     src="/lap.png?height=400&width=300"
                     alt="Professional Photo 2"
                     className="w-full h-full object-cover"
@@ -296,14 +297,14 @@ useEffect(() => {
               </div>
               <div className="space-y-4 mt-8">
                 {/* <div className="h-32 rounded-lg overflow-hidden border-2 border-yellow-400/50 shadow-lg shadow-yellow-400/10">
-                  <img
+                  <Image
                     src="/lap.png?height=400&width=300"
                     alt="Professional Photo 3"
                     className="w-full h-full object-cover"
                   />
                 </div> */}
                 <div className="h-48 rounded-lg overflow-hidden border-2 border-yellow-400/50 shadow-lg shadow-yellow-400/10">
-                  <img
+                  <Image
                     src="/lap.png?height=500&width=400"
                     alt="Professional Photo 4"
                     className="w-full h-full object-cover"
