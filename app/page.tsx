@@ -21,6 +21,7 @@ import {
 
 export default function BatmanPortfolio() {
   const [activeSection, setActiveSection] = useState("hero")
+  // const [isClient, setIsClient] = useState(false);
   const [isMuted, setIsMuted] = useState(true);
   const audioRef = useRef<HTMLAudioElement>(null);
 
@@ -68,9 +69,9 @@ export default function BatmanPortfolio() {
   }
 }, [])
 
- useEffect(() => {
-    setIsClient(true); // ensures DOM is available
-  }, []);
+//  useEffect(() => {
+//     setIsClient(true); 
+//   }, []);
 
 const toggleAudio = () => {
   if (audioRef.current) {
